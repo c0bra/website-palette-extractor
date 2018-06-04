@@ -1,0 +1,24 @@
+{
+  "name": "website-palette-extractor",
+  "version": "1.0.0",
+  "description": "# Data Points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0bra/website-palette-extractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0bra/website-palette-extractor/issues"
+  },
+  "homepage": "https://github.com/c0bra/website-palette-extractor#readme",
+  "dependencies": {
+    "generic-pool": "^3.4.2",
+    "puppeteer": "^1.4.0",
+    "slugify": "^1.3.0"
+  }
+}
